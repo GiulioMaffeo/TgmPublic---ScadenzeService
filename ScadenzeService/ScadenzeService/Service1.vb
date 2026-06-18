@@ -29,9 +29,9 @@ Public Class ServiceScadenzario
             Dim email = New EmailService(
                 host:="smtp.gmail.com",
                 port:=587,
-                user:="giulio.maffeo@gmail.com",
-                pass:="hunb zwdm qdge qhhh",
-                fromAddress:="giulio.maffeo@gmail.com"
+                user:="",
+                pass:="",
+                fromAddress:=""
             )
 
 
