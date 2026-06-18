@@ -1,0 +1,33 @@
+D:\Source\Repos\ScadenzeService\ScadenzeService\bin\Debug\ScadenzeService.exe.config
+D:\Source\Repos\ScadenzeService\ScadenzeService\bin\Debug\ScadenzeService.exe
+D:\Source\Repos\ScadenzeService\ScadenzeService\bin\Debug\ScadenzeService.pdb
+D:\Source\Repos\ScadenzeService\ScadenzeService\bin\Debug\ScadenzeService.xml
+D:\Source\Repos\ScadenzeService\ScadenzeService\bin\Debug\System.Data.SQLite.dll
+D:\Source\Repos\ScadenzeService\ScadenzeService\bin\Debug\System.Data.SQLite.xml
+D:\Source\Repos\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.vbproj.AssemblyReference.cache
+D:\Source\Repos\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.Resources.resources
+D:\Source\Repos\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.vbproj.GenerateResource.cache
+D:\Source\Repos\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.vbproj.CoreCompileInputs.cache
+D:\Source\Repos\ScadenzeService\ScadenzeService\obj\Debug\Scadenze.0AE73082.Up2Date
+D:\Source\Repos\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.exe
+D:\Source\Repos\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.xml
+D:\Source\Repos\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.pdb
+D:\Source\Repos\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.FrmScadenze.resources
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\bin\Debug\ScadenzeService.exe.config
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\bin\Debug\ScadenzeService.exe.manifest
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\bin\Debug\ScadenzeService.application
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\bin\Debug\ScadenzeService.exe
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\bin\Debug\ScadenzeService.pdb
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\bin\Debug\ScadenzeService.xml
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\bin\Debug\System.Data.SQLite.dll
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\bin\Debug\System.Data.SQLite.xml
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.vbproj.AssemblyReference.cache
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.Resources.resources
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.vbproj.GenerateResource.cache
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.vbproj.CoreCompileInputs.cache
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.exe.manifest
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.application
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\obj\Debug\Scadenze.0AE73082.Up2Date
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.exe
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.xml
+E:\RepoGit\VS Projects\ScadenzeService\ScadenzeService\obj\Debug\ScadenzeService.pdb

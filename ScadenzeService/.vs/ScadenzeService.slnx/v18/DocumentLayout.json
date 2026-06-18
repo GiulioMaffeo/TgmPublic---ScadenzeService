@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\RepoGit\\VS Projects\\ScadenzeService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|E:\\RepoGit\\VS Projects\\ScadenzeService\\scadenzeservice\\scadenzerepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|solutionrelative:scadenzeservice\\scadenzerepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|e:\\repogit\\vs projects\\scadenzeservice\\scadenzeservice\\service1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|solutionrelative:scadenzeservice\\service1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|E:\\RepoGit\\VS Projects\\ScadenzeService\\scadenzeservice\\schedulerservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|solutionrelative:scadenzeservice\\schedulerservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|E:\\RepoGit\\VS Projects\\ScadenzeService\\scadenzeservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|solutionrelative:scadenzeservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|e:\\repogit\\vs projects\\scadenzeservice\\scadenzeservice\\scadenza.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|solutionrelative:scadenzeservice\\scadenza.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|e:\\repogit\\vs projects\\scadenzeservice\\scadenzeservice\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|solutionrelative:scadenzeservice\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|e:\\repogit\\vs projects\\scadenzeservice\\scadenzeservice\\logservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|solutionrelative:scadenzeservice\\logservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|e:\\repogit\\vs projects\\scadenzeservice\\scadenzeservice\\datehelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9897F88-6A49-43AE-8168-CFB04573B95B}|ScadenzeService\\ScadenzeService.vbproj|solutionrelative:scadenzeservice\\datehelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Scadenza.vb",
+              "DocumentMoniker": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\Scadenza.vb",
+              "RelativeDocumentMoniker": "ScadenzeService\\Scadenza.vb",
+              "ToolTip": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\Scadenza.vb",
+              "RelativeToolTip": "ScadenzeService\\Scadenza.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-12T11:44:49.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\packages.config",
+              "RelativeDocumentMoniker": "ScadenzeService\\packages.config",
+              "ToolTip": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\packages.config",
+              "RelativeToolTip": "ScadenzeService\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-12T11:44:39.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogService.vb",
+              "DocumentMoniker": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\LogService.vb",
+              "RelativeDocumentMoniker": "ScadenzeService\\LogService.vb",
+              "ToolTip": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\LogService.vb",
+              "RelativeToolTip": "ScadenzeService\\LogService.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-12T11:44:13.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DateHelper.vb",
+              "DocumentMoniker": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\DateHelper.vb",
+              "RelativeDocumentMoniker": "ScadenzeService\\DateHelper.vb",
+              "ToolTip": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\DateHelper.vb",
+              "RelativeToolTip": "ScadenzeService\\DateHelper.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-12T11:43:55.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\App.config",
+              "RelativeDocumentMoniker": "ScadenzeService\\App.config",
+              "ToolTip": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\App.config",
+              "RelativeToolTip": "ScadenzeService\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-27T14:47:34.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchedulerService.vb",
+              "DocumentMoniker": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\SchedulerService.vb",
+              "RelativeDocumentMoniker": "ScadenzeService\\SchedulerService.vb",
+              "ToolTip": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\SchedulerService.vb",
+              "RelativeToolTip": "ScadenzeService\\SchedulerService.vb",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-23T14:29:22.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.vb",
+              "DocumentMoniker": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\Service1.vb",
+              "RelativeDocumentMoniker": "ScadenzeService\\Service1.vb",
+              "ToolTip": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\Service1.vb",
+              "RelativeToolTip": "ScadenzeService\\Service1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-23T14:28:40.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScadenzeRepository.vb",
+              "DocumentMoniker": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\ScadenzeRepository.vb",
+              "RelativeDocumentMoniker": "ScadenzeService\\ScadenzeRepository.vb",
+              "ToolTip": "E:\\RepoGit\\VS Projects\\ScadenzeService\\ScadenzeService\\ScadenzeRepository.vb",
+              "RelativeToolTip": "ScadenzeService\\ScadenzeRepository.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-21T18:59:41.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

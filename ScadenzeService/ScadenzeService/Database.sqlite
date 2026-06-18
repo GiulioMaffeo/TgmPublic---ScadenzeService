@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS Scadenze (
+    Id TEXT PRIMARY KEY,
+    Titolo TEXT NOT NULL,
+    Descrizione TEXT,
+    DataScadenza TEXT NOT NULL,
+    DataPromemoria TEXT NOT NULL,
+    EmailDestinatario TEXT,
+    NotificaEmail INTEGER NOT NULL
+);
